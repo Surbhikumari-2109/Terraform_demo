@@ -11,4 +11,3 @@ It focuses on automating infrastructure creation in a secure, repeatable, and ve
 - Microsoft Azure
 - Git & GitHub
 
-## 📂 Project Structure
